@@ -55,7 +55,7 @@ function TopSection() {
               end result.
             </p>
 
-            <a href="#Contact Us" className="btn btn-light text-dark">
+            <a href="#signup" className="btn btn-light text-dark">
               Start Remodeling
             </a>
           </div>
@@ -66,6 +66,7 @@ function TopSection() {
           />
         </div>
       </div>
+      
     </section>
   );
 }
